@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Code Breaker", "Code Breaker\Code Breaker.vcxproj", "{B21CD019-5A37-49A4-B1E2-427D9908ABDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B21CD019-5A37-49A4-B1E2-427D9908ABDC}.Debug|x64.ActiveCfg = Debug|x64
+		{B21CD019-5A37-49A4-B1E2-427D9908ABDC}.Debug|x64.Build.0 = Debug|x64
+		{B21CD019-5A37-49A4-B1E2-427D9908ABDC}.Debug|x86.ActiveCfg = Debug|Win32
+		{B21CD019-5A37-49A4-B1E2-427D9908ABDC}.Debug|x86.Build.0 = Debug|Win32
+		{B21CD019-5A37-49A4-B1E2-427D9908ABDC}.Release|x64.ActiveCfg = Release|x64
+		{B21CD019-5A37-49A4-B1E2-427D9908ABDC}.Release|x64.Build.0 = Release|x64
+		{B21CD019-5A37-49A4-B1E2-427D9908ABDC}.Release|x86.ActiveCfg = Release|Win32
+		{B21CD019-5A37-49A4-B1E2-427D9908ABDC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA2CB5C6-948F-4B9B-98F3-D68E6144E9CE}
+	EndGlobalSection
+EndGlobal
